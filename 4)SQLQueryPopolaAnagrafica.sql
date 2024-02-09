@@ -1,0 +1,16 @@
+INSERT INTO ANAGRAFICA (Cognome, Nome, Indirizzo, Città, CAP, Cod_Fisc) VALUES
+('Rossi', 'Mario', 'Via Roma 1', 'Torino', '10100', 'RSSMRA80A01H501Z'),
+('Bianchi', 'Laura', 'Via Verdi 2', 'Roma', '00100', 'BNCLRA75M42F205Y'),
+('Verdi', 'Giuseppe', 'Corso Italia 3', 'Torino', '10100', 'VRDGSPP70A01L219'),
+('Pippo', 'Antonio', 'Via Garibaldi 4', 'Roma', '00100', 'PPNNTN85A01F205Q'),
+('Ferrari', 'Lucia', 'Via Dante 5', 'Firenze', '50100', 'FRRLCU90B42G200T'), 
+('Smith', 'John', 'Via dei Mille 6', 'Firenze', '50100', 'SMTJHN80A01Z100X'),
+('Russo', 'Maria', 'Via della Vittoria 7', 'Bologna', '40100', 'RSSMRA75L42Z301W'),
+('De Luca', 'Giulia', 'Via XX Settembre 8', 'Palermo', '90100', 'DLCGLI85T42H501V'),
+('Bianco', 'Marco', 'Via Garibaldi 9', 'Lecce', '73100', 'BNCMRC90A01F205U'),
+('Verdi', 'Anna', 'Corso Vittorio Emanuele 10', 'Roma', '00100', 'VRDNN80A01A001R'),
+('Di Matteo', 'Luigi', 'Via Roma 11','Palermo', '90100', 'DMTLGI75C01L219Z'),
+('Pluto', 'Giulio', 'Via delle Rose 12', 'Torino', '10100', 'PLTGLI85B42H501K'),
+('Rossi', 'Martina', 'Via Garibaldi 13','Palermo', '90100', 'RSSMRT90A01A001J'),
+('Franco', 'Elena', 'Via Verdi 14', 'Lecce', '73100', 'FRNLEN80T42A001I'),
+('Neri', 'Giovanni', 'Corso Matteotti 15', 'Lecce', '73100', 'NRNGVN85A01F205H');
